@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ya1303&label=Profile%20views&color=0e75b6&style=flat" alt="ya1303" /> </p>
 
-- 🌱 I’m currently learning **C/C++ ,Java, Html ,Css ,java-script**
+- 🌱 I’m currently learning **C++ ,Mongo DB , Express ,React-JS, Node-JS**
 
 - 📫 How to reach me **opportunities.yatin@gmail.com**
 
