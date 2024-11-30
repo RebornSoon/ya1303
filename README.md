@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yatin Sharma</h1>
-## boring
 <h3 align="center">"Crafting responsive, user-centric web solutions with modern technologies."
 
 </h3>
