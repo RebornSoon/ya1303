@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **opportunities.yatin@gmail.com**
+- 📫 How to reach me **Nothing**
 
 - ⚡ Fun fact **I am Boring**
 
